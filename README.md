@@ -5,7 +5,7 @@ A backup suite. Supports FLZMA2, bzip3, LZ4, Zstandard, LSH i-node ordering dedu
 
 ### Download, build and install
 ```
-% git clone --recurse-submodules https://github.com/kspalaiologos/modern-rzip
+% git clone --recurse-submodules https://github.com/iczelia/modern-rzip
 % cd modern-rzip && ./configure && make -j$(nproc) common all && sudo make install
 ```
 
