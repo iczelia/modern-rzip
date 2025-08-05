@@ -9,4 +9,4 @@
 	url = https://github.com/facebook/zstd
 [submodule "vendor/bzip3"]
 	path = vendor/bzip3
-	url = https://github.com/kspalaiologos/bzip3
+	url = https://github.com/iczelia/bzip3
